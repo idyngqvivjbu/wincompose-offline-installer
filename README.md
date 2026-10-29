@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Input+Tool-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Input+Method-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 WinCompose Free Installer** — WinCompose is a free Windows utility that brings Linux-style Compose key functionality. Works without internet access, no account required. Full offline installation.
+**💻 WinCompose Free Installer** — WinCompose is a free, open-source compose key application for Windows that allows typing special characters using intuitive key sequences. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About WinCompose
 
-WinCompose is a free Windows utility that brings Linux-style Compose key functionality. Press a configurable key followed by character sequences to insert special characters, accented letters, mathematical symbols, and emoji without memorizing keyboard codes.
+WinCompose is a free, open-source compose key application for Windows that allows typing special characters using intuitive key sequences. Press a compose key then type a sequence like '+' and 'o' to produce '©', or '-' and '>' to produce '→'. WinCompose brings the Linux compose key functionality to Windows, dramatically expanding character input beyond standard keyboard layouts.
 
 ---
 
 ## ❌ Problem: WinCompose is hard to access
 
-- **Windows Only** — Linux has native Compose key support; macOS has Option key combinations
-- **Learning Curve** — Memorizing compose sequences takes practice
-- **No GUI for Sequences** — Character sequence lookup requires consulting documentation
-- **Limited Default Sequences** — Some desired characters require custom sequence configuration
+- **Windows Only** — Linux and macOS have built-in compose key support
+- **Learning Sequences** — Hundreds of compose sequences require practice to memorize
+- **Application Compatibility** — Some applications may not receive composed characters correctly
+- **Conflict Potential** — Compose key must not conflict with existing keyboard shortcuts
 
 ---
 
@@ -121,7 +121,7 @@ WinCompose is a free Windows utility that brings Linux-style Compose key functio
 
 ---
 
-**WinCompose Free Installer** — WinCompose is a free Windows utility that brings Linux-style Compose key functionality. Install without internet connection today!
+**WinCompose Free Installer** — WinCompose is a free, open-source compose key application for Windows that allows typing special characters using intuitive key sequences. Install without internet connection today!
 
 <div align="center">
 
